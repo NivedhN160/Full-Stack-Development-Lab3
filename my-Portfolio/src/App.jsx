@@ -84,7 +84,7 @@ function App() {
               <br />
               <Badge bg="success" className="mb-2">Active</Badge>
               <h1 className="display-6 fw-bold">Nivedh Sunil</h1>
-              <p className="lead">20-Year-Old Coder & Movie Enthusiast</p>
+              <p className="lead">A Problem-Solving Coder who can debug the bugs and pretend it worked on the first try.</p>
             </WindowFrame>
           </Col>
         </Row>
